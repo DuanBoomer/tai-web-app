@@ -2,4 +2,5 @@ numpy
 streamlit_webrtc
 mediapipe
 pynput
-opencv-contrib-python
+ultralytics
+opencv-python-headless
